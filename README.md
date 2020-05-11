@@ -1,5 +1,8 @@
-# simple-chat-bot
-a small java project which implemts simple chat bot,nothing fancy
+SOME SIMPLE PROJECTS IN JAVA 
+1.SIMPLE CHAT BOT
+2.COFFEE MACHINE
+WILL ADD NEW ONES ONCE COMPLETE
+
 
 
 
