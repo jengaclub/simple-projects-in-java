@@ -1,6 +1,6 @@
 SOME SIMPLE PROJECTS IN JAVA
 
-1.simple chat bot(the file itself is named Main.java)
+1.simple chat bot
 ->a very simple chatting bot that asks your name, age etc.
 
 
