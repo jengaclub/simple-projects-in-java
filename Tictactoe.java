@@ -2,7 +2,7 @@ package tictactoe;
 import java.util.Scanner;
 import java.io.*;
 
-public class Main {
+public class Tictactoe{
 
     //**FUNCTION FOR CHECKING IF THAT POSITION IS EMPTY***//
     public boolean hasEmptyIndex(int i, int j, char[][] array) {
@@ -30,7 +30,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int i, j = 0;
         char[][] array = new char[3][3];
-        Main a = new Main();
+        Tictactoe a = new Tictactoe();
         //filling the char array with empty values at first
         for (i = 0; i < 3; i++) {
             for (j = 0; j < 3; j++) {
