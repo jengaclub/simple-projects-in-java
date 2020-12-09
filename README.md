@@ -11,7 +11,10 @@ SOME SIMPLE PROJECTS IN JAVA
 3.tic tac toe game
 ->a simple two player tic-tac-toe game.
 
-
+4.Cinema.java
+->a simple cinema room management program,can buy tickets and calculate the price based on the positning on the seat
+  this project was made by following the cinema room project in jetbrains academy
+  
 
 
 
